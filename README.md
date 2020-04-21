@@ -3,6 +3,9 @@ MilkDrop is a music visualizer - a "plug-in" to the Winamp music player. As you 
 
 **Official Website:** http://www.geisswerks.com/milkdrop/
 
+**This is only an archive - I do not maintain the project!**
+- Added Winamp 5.8 Build 3660 (x86) (Beta) Installer, where the MilkDrop Visualizer is implemented. Please get the latest version on the official Winamp website.
+
 ---
 
 **What is MilkDrop?**
